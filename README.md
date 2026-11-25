@@ -2,4 +2,4 @@
 
 Sou estudante de Desenvolvimento de Sistemas.
 
-✧ Sou feita de universos que descobri e de outros que ainda quero explorar.
+✧･ﾟ: To live for the hope of it all :･ﾟ✧
