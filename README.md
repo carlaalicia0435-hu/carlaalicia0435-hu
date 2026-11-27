@@ -22,7 +22,7 @@ Tenho interesse em programação, hardware e novas tecnologias. Atualmente, esto
 <img src="https://img.shields.io/badge/Inteligência%20Artificial-123B68?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Hardware-123B68?style=for-the-badge&logo=computer&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-123B68?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-123B68?style=for-the-badge&logo=github&logoColor=white"></div>"03" | Objetivos
+<img src="https://img.shields.io/badge/GitHub-123B68?style=for-the-badge&logo=github&logoColor=white"></div>3.Objetivos
 
 - Aprimorar meus conhecimentos em programação.
 - Desenvolver projetos próprios.
