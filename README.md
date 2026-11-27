@@ -8,14 +8,14 @@ Olá! Sou estudante da EEEP Maria Carmem Vieira Moreira, no curso técnico de De
 
 Tenho interesse em programação, hardware e novas tecnologias. Atualmente, estou ampliando meus conhecimentos na área de tecnologia.
 
-"01" | Estudos atuais
+1.Estudos atuais
 
 - 🐍 Python — em aprendizado.
 - 💻 Portugol — lógica de programação e algoritmos.
 - 🖥️ Hardware — componentes e arquitetura de computadores.
 - 🤖 Inteligência Artificial — fundamentos e aplicações.
 
-"02" | Tecnologias e ferramentas
+2.Tecnologias e ferramentas
 
 <div align="center"><img src="https://img.shields.io/badge/Python-123B68?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Portugol-123B68?style=for-the-badge&logo=code&logoColor=white">
