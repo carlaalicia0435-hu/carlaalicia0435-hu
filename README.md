@@ -35,7 +35,7 @@ Tenho interesse em programação, hardware e novas tecnologias. Atualmente, esto
 
 "To live for the hope of it all."
 
-— august, Taylor Swift
+-august, Taylor Swift
 
 ✦---✦
 
