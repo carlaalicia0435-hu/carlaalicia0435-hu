@@ -31,12 +31,12 @@ Tenho interesse em programação, hardware e novas tecnologias. Atualmente, esto
 
 ---
 
-<div align="center">✦✦
+<div align="center">✦---✦
 
 "To live for the hope of it all."
 
 — august, Taylor Swift
 
-✦✦
+✦---✦
 
 </div>
